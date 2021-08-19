@@ -2,7 +2,7 @@
 	"minimum-stability": "dev", 
 	"prefer-stable": true,
     "require": {
-        
+        "ordergroove/subscription": "~1.2.25"
     },
 	"repositories": [
         {
